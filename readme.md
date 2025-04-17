@@ -26,7 +26,8 @@ The code is designed to accompany my [Medium articles](https://onurhaktan.medium
   [Concurrency vs Parallelism Explained with Real Life Examples](https://onurhaktan.medium.com/concurrency-and-parallelism-1-2-5e9ef438918c)  
   *(Simple analogies like car repair shops to explain the theory)*
 
-- 🔹 **Part 2 – Practice in Java** (Coming Soon !)  
-  *(Practical code implementations in Java)*
+- 🔹 **Part 2 – Practice in Java**   
+[Concurrency & Parallelism in Java](https://onurhaktan.medium.com/concurrency-and-parallelism-2-2-03d9feb2d89b)
+- *(Practical code implementations in Java)*
 
 ---
