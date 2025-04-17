@@ -28,6 +28,6 @@ The code is designed to accompany my [Medium articles](https://onurhaktan.medium
 
 - 🔹 **Part 2 – Practice in Java**   
 [Concurrency & Parallelism in Java](https://onurhaktan.medium.com/concurrency-and-parallelism-2-2-03d9feb2d89b)
-- *(Practical code implementations in Java)*
+  *(Practical code implementations in Java)*
 
 ---
